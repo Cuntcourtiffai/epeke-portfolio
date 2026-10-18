@@ -1,0 +1,42 @@
+{
+  "name": "Epeke Vuyisani",
+  "title": "UGC Creator | Beauty, Fashion & Lifestyle",
+  "tagline": "Real faces. Soft light. Content that feels like taste.",
+  "email": "epekevuyisani@gmail.com",
+  "instagram": "https://www.instagram.com/cvntcourtiffai?srtk=MThuZHp4dTVvN2hmaQ==",
+  "instagramHandle": "@cvntcourtiffai",
+  "tiktok": "https://www.tiktok.com/@_iph_fi",
+  "tiktokHandle": "@_iph_fi",
+  "whatsapp": "https://wa.me/2349044354460",
+  "whatsappDisplay": "09044354460",
+  "siteUrl": "",
+  "about": "I make short-form content that feels like a friend showing you something they actually use: a skincare routine in a bright bathroom, a hoodie styled three ways, a tray of frames tried on one by one. I care about light, framing and pacing, and I keep the product honest and central. My work lives across skincare, fashion and accessories, fragrance and grooming, everyday routines and consumer tech, built for TikTok and Instagram Reels.",
+  "niches": ["Skincare & beauty","Fashion, styling & accessories","Fragrance & grooming","Lifestyle & everyday routines","Technology & consumer products"],
+  "formats": ["Get-ready-with-me","Outfit of the day","Skincare & grooming routines","Product demonstrations","Unboxing & first impressions","Lifestyle integrations","Honest testimonial-style content","Short-form ad creatives","TikTok & Reels"],
+  "services": [
+    ["UGC video creation","Vertical, social-first videos shot and edited to your brief."],
+    ["Skincare & beauty","Routines, textures, application and before-you-buy demos."],
+    ["Fashion & accessories","Outfit stories, try-ons, detail shots and styling variations."],
+    ["Fragrance & grooming","Ritual-style content around scent, shave and personal care."],
+    ["Lifestyle integrations","Your product placed naturally inside an everyday moment."],
+    ["GRWM & routines","Step-by-step get-ready and daily-routine formats."],
+    ["Product demonstrations","Clear how-it-works content with close, honest detail."],
+    ["Unboxing & first impressions","Reveal, reaction and first-use takes."],
+    ["Short-form social content","Reels and TikToks formatted for each platform."],
+    ["Paid-ad creative","Concepts and alternative hooks to test in your ad accounts."]
+  ],
+  "process": [
+    ["01","Brand brief & objectives","Share the product, audience, platform and goal."],
+    ["02","Concept development","I propose hooks, scenes and a shot list for approval."],
+    ["03","Filming & editing","Vertical filming, clean edit, captions and sound."],
+    ["04","Delivery & agreed revisions","Files delivered in your formats, with agreed revision rounds."]
+  ],
+  "projects": [
+    {"id":"vitc-routine-b","title":"Serum Texture & Glow","cat":"Skincare","subject":"Vitamin C day serum","desc":"Product in hand, application, texture close-up and a splash rinse.","featured":true,"url":""},
+    {"id":"streetwear-fit","title":"Maroon Cross Hoodie Fit","cat":"Fashion","subject":"Streetwear: hoodie, plaid pants, shearling hat","desc":"Flat-lay to street walk: a styling story that shows how the pieces move.","featured":true,"url":""},
+    {"id":"eyewear-grwm","title":"Frames GRWM","cat":"Eyewear","subject":"Half-rim glasses","desc":"A close, personal try-on sequence that ends on a confident smile.","featured":true,"url":""},
+    {"id":"accessories-style","title":"Stacked Silver & Everyday Style","cat":"Accessories","subject":"Bracelets, styled outfit","desc":"Getting dressed, a detail macro, then the full look in window light.","featured":true,"url":""},
+    {"id":"vitc-routine-a","title":"Vitamin C Day Routine","cat":"Skincare","subject":"Vitamin C day serum","desc":"Bathroom routine ending on a storyboard-style product result.","featured":false,"url":""},
+    {"id":"eyewear-tray","title":"Choose Your Frames","cat":"Eyewear","subject":"Optical frames, several styles","desc":"Tray reveal into a quick try-on of two frame styles.","featured":false,"url":""}
+  ]
+}
